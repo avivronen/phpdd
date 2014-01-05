@@ -1,7 +1,7 @@
 <?php
 /**
  * Simple PHP Adapter example
- * Good when using with API's for examples
+ * Good when using with API's for example
  */
 
 
